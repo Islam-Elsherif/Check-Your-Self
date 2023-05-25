@@ -5,26 +5,26 @@ Human Diseases Checker App
 
 📱 Built using Flutter, this cross-platform app offers a user-friendly interface and a seamless experience across different devices.
 
+Welcome page
 ![welcomePage](https://github.com/Islam-Elsherif/Check-Your-Self/assets/120138380/02e40a19-5949-4fdb-a464-803b8fa430a8)
-#Welcome page
 
+Login page
 ![loginPage](https://github.com/Islam-Elsherif/Check-Your-Self/assets/120138380/3f1f6cbc-e755-4398-8a12-942e9aea0278)
-#Login page
 
+Home page
 ![homePage](https://github.com/Islam-Elsherif/Check-Your-Self/assets/120138380/3e4c2cd1-5329-4900-852a-2df24d503a26)
-#Home page
 
+General information
 ![general-information](https://github.com/Islam-Elsherif/Check-Your-Self/assets/120138380/f77203c1-95e5-4ece-8171-67b5a9c2fc59)
-#General information
 
+General symptoms
 ![generalsymptoms ](https://github.com/Islam-Elsherif/Check-Your-Self/assets/120138380/3d70979e-a756-4bd8-8588-a8c3e7f6159d)
-#General symptoms
 
+Specific symptoms 
 ![specificsymptoms ](https://github.com/Islam-Elsherif/Check-Your-Self/assets/120138380/4bffbed7-4deb-459c-8c27-b73ace08afd9)
-#Specific symptoms 
 
+stroke Specific symptom 
 ![strokePage](https://github.com/Islam-Elsherif/Check-Your-Self/assets/120138380/086bc447-bb13-4d6c-bde0-0adb5d688db9)
-#stroke Specific symptom 
 
 
 🔬 Key Features:
