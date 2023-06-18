@@ -52,6 +52,8 @@ dependencies:
   url_launcher: ^6.1.11
   percent_indicator: ^4.2.3
   animated_text_kit: ^4.2.2
+  image_picker: ^0.8.9
+  image_cropper: ^4.0.1
 
 dev_dependencies:
   flutter_launcher_icons: ^0.13.1
