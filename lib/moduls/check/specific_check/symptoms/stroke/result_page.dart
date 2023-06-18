@@ -61,9 +61,9 @@ class StrokeResultPage extends StatelessWidget {
             animationDuration: 1000,
             radius: 90.0,
             lineWidth: 18.0,
-            percent: .40,
+            percent: .67,
             center: const Text(
-              "40%",
+              "67%",
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             progressColor: Colors.deepPurple,
@@ -73,7 +73,10 @@ class StrokeResultPage extends StatelessWidget {
           const SizedBox(
             height: 50,
           ),
-          const Text("No diseases found,You are healthy"),
+          const Text(
+            "No diseases found,You are healthy",
+            textAlign: TextAlign.center,
+          ),
           const SizedBox(
             height: 10,
           ),

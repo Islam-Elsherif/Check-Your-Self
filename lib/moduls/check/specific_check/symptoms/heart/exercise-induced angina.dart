@@ -46,7 +46,7 @@ class _ExerciseInducedAnginaState extends State<ExerciseInducedAngina> {
                   child: Opacity(
                 opacity: 0.4,
                 child: Image.asset(
-                  "images/Exerciseinducedangina.jpg",
+                  "images/exerciseinducedangina.jpg",
                   fit: BoxFit.fill,
                 ),
               )),
@@ -132,7 +132,9 @@ class _ExerciseInducedAnginaState extends State<ExerciseInducedAngina> {
                       height: 60,
                       onPressed: () {
                         if (_formKey.currentState!.validate()) {
-                          BspcList.add(SpcList(name: 'Angina Pectoris', value: hasFastingBloodSugar! ? 'Yes' : 'No' ));
+                          BspcList.add(SpcList(
+                              name: 'Angina Pectoris',
+                              value: hasFastingBloodSugar! ? 'Yes' : 'No'));
 
                           Navigator.push(
                               context,
