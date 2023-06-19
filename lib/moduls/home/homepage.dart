@@ -311,7 +311,8 @@ class _HomePageState extends State<HomePage> {
                                                     child: AnimatedTextKit(
                                                       animatedTexts: [
                                                         TypewriterAnimatedText(
-                                                          'General Diseases Check',
+                                                          'General Diseases Check'
+                                                              .tr,
                                                           textAlign:
                                                               TextAlign.center,
                                                         ),
@@ -396,7 +397,8 @@ class _HomePageState extends State<HomePage> {
                                                     child: AnimatedTextKit(
                                                       animatedTexts: [
                                                         TypewriterAnimatedText(
-                                                          'Specific Diseases Check',
+                                                          'Specific Diseases Check'
+                                                              .tr,
                                                           textAlign:
                                                               TextAlign.center,
                                                         ),
